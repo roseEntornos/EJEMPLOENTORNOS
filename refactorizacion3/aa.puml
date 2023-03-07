@@ -1,0 +1,6 @@
+@startuml
+class refactorizacion3.NewClass
+class refactorizacion3.Tarjeta
+class refactorizacion3.Tarjetas
+refactorizacion3.NewClass --|> refactorizacion3.Tarjeta
+@enduml
